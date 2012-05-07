@@ -1,0 +1,11 @@
+changelog:
+
+v0.4
+-embedded dll files -> all in 1 neat exe file
+-allow merge into one of the source folders
+
+v0.3
+-improved folder dialog window
+-drag and drop selection of folders
+-correct and seperate threaded progressbars
+-switched to c# programming language
