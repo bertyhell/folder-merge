@@ -1,9 +1,0 @@
-﻿<Window x:Class="FolderMerge.ProgressbarWindow"
-        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Height="80" Width="500" xmlns:FolderMerge="clr-namespace:FolderMerge"
-        Title="Progress" ShowInTaskbar="False" WindowStyle="None" WindowStartupLocation="CenterOwner" ResizeMode="NoResize">
-    <Grid>
-        <FolderMerge:ProgressBarControl HorizontalAlignment="Stretch" x:Name="progressBarControl1" VerticalAlignment="Stretch" />
-    </Grid>
-</Window>
